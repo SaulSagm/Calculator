@@ -18,7 +18,3 @@ int main()
   
   return 0;
 }
-
-#!/bin/sh
-gcc program.c -o program
-./program
