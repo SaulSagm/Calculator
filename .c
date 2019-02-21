@@ -1,6 +1,4 @@
-#!/bin/sh
-gcc program.c -o program
-./program
+#!/usr/bin/tcc -run
 
 # Calculator
 
