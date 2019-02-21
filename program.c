@@ -1,4 +1,3 @@
-#!/bin/sh gcc Calculator.c -o Calculator ./Calculator
 
 # Calculator
 
@@ -19,3 +18,7 @@ int main()
   
   return 0;
 }
+
+#!/bin/sh
+gcc program.c -o program
+./program
