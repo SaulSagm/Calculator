@@ -1,4 +1,4 @@
-#!/bin/sh gcc main.c -o main./main
+#!/bin/sh gcc Calculator.c -o Calculator ./Calculator
 
 # Calculator
 
