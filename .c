@@ -1,4 +1,4 @@
-#!/usr/bin/tcc -run
+#!/bin/sh gcc main.c -o main./main
 
 # Calculator
 
