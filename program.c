@@ -2,7 +2,7 @@
 # Calculator
 
 #include <stdlib.h>
-#include <stio.h>
+#include <stdio.h>
 
 int main()
 {
