@@ -1,4 +1,5 @@
-run < [Calculator]
+#!/bin/sh
+
 # Calculator
 
 #include <stdlib.h>
