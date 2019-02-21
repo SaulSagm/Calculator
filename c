@@ -1,3 +1,4 @@
+run < [Calculator]
 # Calculator
 
 #include <stdlib.h>
