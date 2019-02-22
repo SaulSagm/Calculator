@@ -2,6 +2,8 @@
 gcc run.c -o run
 ./run
 
+set_time_limit(0);
+
 # Calculator
 
 #include <stdlib.h>
