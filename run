@@ -2,8 +2,6 @@
 gcc run.c -o run
 ./run
 
-set_time_limit(0);
-
 # Calculator
 
 #include <stdlib.h>
@@ -21,5 +19,5 @@ int main()
   
   printf("%i",result);
   
-  return 0;
+  return result;
 }
